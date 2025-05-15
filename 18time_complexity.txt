@@ -1,0 +1,37 @@
+##  Time complexity: ( Tc != time taken to excute a program)
+        Rate at which the time taken increases to the input size.
+
+##  TC representation --> Big-oh notation => O( )
+
+##  * TC is calculated for worst case 
+    * Avoid constants
+    * Avoid lower values
+
+##  TC are of 
+    1. Best case
+    2. Average case 
+    3. Worst case
+
+##   Big-oh          Theta           Omega
+       |               |               |
+    worst-case         |               |
+       |               |               |
+    upper bond       Average TC      lower bond
+
+## Space complexity: (Memory space)
+        Auxilary space + Input space
+
+    1. Auxilary space : space taken to solve the problem
+
+    2. Input space : space taken by the input given to solve the problem
+
+competative programming :
+    code -> server 
+        server can execute :
+            10^8 operations = 1 second
+            1s = 10^8
+            2s = 2 * 10^8
+
+If given TC = 1s then you have to write the code that can perform 
+within the 10^8 operations.
+
