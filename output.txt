@@ -1,6 +1,0 @@
-Function Number = 10
-Modified NUmber = 15
-original number = 10
-Function name = sush
-Modified name = Aush
-original name = sush
