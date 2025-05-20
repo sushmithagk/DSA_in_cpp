@@ -21,5 +21,4 @@ int main(){
     cin>>n;
     print(n);
     return 0;
-
 }
